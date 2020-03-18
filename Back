@@ -1,4 +1,4 @@
-<div class='body-upper'>{{cloze:Texte}}</div>
+<div class='body-upper'>{{cloze:Text}}</div>
 
 <div class='body-lower'>
 {{#Extra}}
