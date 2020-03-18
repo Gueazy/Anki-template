@@ -1,0 +1,7 @@
+<div class='body-upper'>{{cloze:Texte}}</div>
+
+<div class='body-lower'>
+{{#Extra}}
+<div id='extra'>{{Extra}}</div>
+{{/Extra}}
+</div>
