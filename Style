@@ -1,0 +1,66 @@
+.card {
+font-family: avenir next;
+text-align: center;
+color: #333B45;
+background-color: #FDF8E9;
+padding: 20px;
+}
+
+.card.night_mode {
+font-family: avenir next;
+text-align: center;
+color: #333B45;
+background-color: #FDF8E9;
+padding: 20px;
+}
+
+.night_mode .cloze {
+color: #FFFF33 !important;
+}
+
+.body-upper { 
+font-size: 24px; 
+color: #FDF8E9;
+background-color: #333B45;
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+}
+
+.body-lower { 
+border-width: 5px 3px 3px 3px;
+border-style: solid;
+border-color: #333B45;
+border-radius: 0px 0px 10px 10px;
+}
+
+#extra {
+font-size: 22px;
+font-style: italic;
+padding: 20px;
+}
+
+img { 
+width: auto;
+height: auto;
+max-width: 550px; 
+max-height: 350px; 
+border-radius: 1em;
+border: 1px solid #333B45;
+}
+
+.iphone .cloze { color: #FFFF33 !important; }
+.iphone .card { 
+color: #333B45;
+background-color: #FDF8E9; 
+padding: 5px; 
+} 
+.iphone .card img { max-width: 70%; max-height: 40%; }
+
+.ipad .cloze { color: #FFFF33 !important; }
+.ipad .card { 
+color: #333B45;
+background-color: #FDF8E9; 
+padding: 10px; 
+} 
+
+.ipad .card img { max-width: 60%; max-height: 350px; }
